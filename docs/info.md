@@ -17,4 +17,4 @@ Use half adder truth table, that's all.
 
 ## External hardware
 
-nop
+Nop
